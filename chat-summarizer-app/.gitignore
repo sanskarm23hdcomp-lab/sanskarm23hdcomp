@@ -1,0 +1,19 @@
+# Build outputs
+.gradle/
+build/
+app/build/
+
+# Local configuration (contains API keys – NEVER commit this)
+local.properties
+
+# Firebase service account (contains secrets – NEVER commit this)
+app/google-services.json
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store

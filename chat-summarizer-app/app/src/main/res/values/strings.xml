@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat Summarizer Demo</string>
+    <!-- Group name – emoji is decorative; meaningful text follows -->
+    <string name="group_name">Team Alpha</string>
+    <string name="btn_summarize">Summarize Today\'s Chat</string>
+    <string name="tap_hint">Tap the button to generate an AI summary of today\'s messages</string>
+    <string name="sheet_title">Today\'s Chat Summary</string>
+</resources>
